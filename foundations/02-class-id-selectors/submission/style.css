@@ -1,0 +1,23 @@
+.pinkbg {
+    background-color: rgb(255, 167, 167);
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+
+#num2 {
+    color:rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+.largeText {
+    font-size: 24px;
+}
+
+#num4 {
+    background-color: rgb(128, 255, 128);
+    font-weight: bold;
+    font-size: 24px;
+}
+
+/* After-thoughts: should not name html classes/ids based on 
+css attributes. Should instead describe the html elements
+themselves. Refer to solution html/css files in ../solution dir.
